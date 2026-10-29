@@ -1,0 +1,12 @@
+{
+    "name": "UbxGnss",
+    "version": "0.1.0",
+    "description": "Shared u-blox UBX decoding (frame parser, NAV-PVT, NAV-RELPOSNED, MON-VER) for the NeptuneGPS Salacia and Proteus firmwares",
+    "license": "LGPL-3.0-or-later",
+    "frameworks": "*",
+    "platforms": "*",
+    "build": {
+        "srcDir": "src",
+        "includeDir": "src"
+    }
+}
